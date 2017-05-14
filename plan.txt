@@ -1,0 +1,4 @@
+* Share house is created with fixed participants (housemates).
+    * Everyone pays in an initial kitty of 1 ETH.
+* Any single housemate can file an expense.
+* After a majority sign off on an expense, the purchaser is reimbursed.
